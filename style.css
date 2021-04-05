@@ -1,0 +1,33 @@
+.html_tag{
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+    padding-left: 20px;
+    border-color: #ddd;
+    font-family: arial black;
+}
+.op{
+    text-decoration: None;
+    
+}
+.Btn{
+    color:red;background-color: blue;
+}
+.input{
+    color:#ddd:
+}
+.frm{
+    color:tomato;background-color: black;
+}
+.mark{
+    color:tomato;
+}
+.html_tag thead{
+    background:red; color:white;
+}
+.html_tag tbody tr:nth-child(odd){
+    background:#ddd;color:white;
+}
+html_tag tbody tr:nth-child(even){
+    background:#555;color:black;
+}
